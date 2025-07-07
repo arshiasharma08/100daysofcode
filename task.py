@@ -1,6 +1,9 @@
-print("Hello, Welcome to the Band Name Generator.")
-city = input("What's the name of the city you grew up in?\n")
-pet = input("What is the name of a pet?\n")
-band_name = ("Your brand name could be: " + city + " " + pet)
-
-
+print("Welcome to the tip calculator!")
+bill = float(input("What was the total bill? $"))
+tip = int(input("What percentage tip would you like to give? 10, 12, or 15? "))
+people = int(input("How many people to split the bill? "))
+tip_as_percent = tip / 100
+bill_with_tip = bill * (1 + tip_as_percent)
+bill_per_person = bill_with_tip / people
+final_amount = round(bill_per_person, 2)
+print(f"Each person should pay: ${final_amount}")
