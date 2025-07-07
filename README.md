@@ -10,14 +10,14 @@ The **100 Days of Code** challenge is a commitment to code for at least an hour 
 
 This repo will be organized by day, with each folder representing a single day's challenge or project.
 
-DAY 1
+DAY 1 -
 Band Name Generator Project
 Create a greeting for your program.
 Ask the user for the city that they grew up in and store it in a variable.
 Ask the user for the name of a pet and store it in a variable.
 Combine the name of their city and pet and show them their band name.
 
-DAY 2
+DAY 2 -
 Tip Calculator Project
 We're going to build a tip calculator.
 If the bill was $150.00, split between 5 people, with 12% tip.
@@ -25,15 +25,15 @@ Each person should pay:
 (150.00 / 5) * 1.12 = 33.6
 After formatting the result to 2 decimal places = 33.60
 
-DAY 3 
+DAY 3 -
 Treasure Island Project
 Your goal today is to build a "Chose your own adventure game". Using what you have learnt in the lessons today you will be building a very simple version of this type of text game.
 
-DAY 4
+DAY 4 -
 Rock Paper Scissors Project
 You are going to build a Rock, Paper, Scissors game. You will need to use what you have learnt about randomisation and Lists to achieve this.
 
-DAY 5
+DAY 5 -
 Password Generator Project
 The program will ask:
 How many letters would you like in your password?
@@ -41,7 +41,7 @@ How many symbols would you like?
 How many numbers would you like?
 The objective is to take the inputs from the user to these questions and then generate a random password. Use your knowledge about Python lists and loops to complete the challenge.
 
-DAY 7 
+DAY 7 - 
 Hangman Game Project
 TODO-1:
 Update the word list to use the word_list from hangman_words.py
@@ -62,7 +62,7 @@ TODO 7:
 Update the print statement to give the user the correct word they were trying to guess.
 e.g. IT WAS <Correct Word>! YOU LOSE
 
-DAY 8
+DAY 8 -
 Casear Cipher Project
 TODO-1:
 Import and print the logo from art.py when the program starts.
@@ -80,7 +80,7 @@ e.g.
 Type 'yes' if you want to go again. Otherwise, type 'no'.
 If they type 'yes' then ask them for the direction/text/shift again and call the caesar() function again.
 
-DAY 9
+DAY 9 -
 The goal is to build a blind auction program.
 Clearing the Output
 There are several ways of clearing the output. The easiest is to simply print "\n" many times so that the output scrolls down many lines.
