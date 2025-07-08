@@ -81,6 +81,7 @@ Type 'yes' if you want to go again. Otherwise, type 'no'.
 If they type 'yes' then ask them for the direction/text/shift again and call the caesar() function again.
 
 DAY 9 -
+Blind auuction Project
 The goal is to build a blind auction program.
 Clearing the Output
 There are several ways of clearing the output. The easiest is to simply print "\n" many times so that the output scrolls down many lines.
@@ -93,4 +94,14 @@ The program asks if there are others who need to bid. If so, then the computer c
 Each person's name and bid are saved to a dictionary.
 Once all participants have placed their bid, the program works out who has the highest bid and prints it.
 
-
+DAY 10 - 
+Calculator Project
+Functionality
+Program asks the user to type the first number.
+Program asks the user to type a mathematical operator (a choice of "+", "-", "*" or "/")
+Program asks the user to type the second number.
+Program works out the result based on the chosen mathematical operator.
+Program asks if the user wants to continue working with the previous result.
+If yes, program loops to use the previous result as the first number and then repeats the calculation process.
+If no, program asks the user for the fist number again and wipes all memory of previous calculations.
+Add the logo from art.py
