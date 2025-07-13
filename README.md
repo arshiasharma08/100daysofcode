@@ -123,3 +123,16 @@ cards = [11, 2, 3, 4, 5, 6, 7, 8, 9, 10, 10, 10, 10]
 The cards in the list have equal probability of being drawn.
 Cards are not removed from the deck as they are drawn.
 The computer is the dealer.
+
+DAY 12 - 
+Number Guessing Project
+A project in which you guess a number out of 1 - 100. You get 10 tries for the easy mode and 5 for the hard mode.
+Project breakdown
+Printing the starting messages.
+Setting the difficulty level based on user input.
+Allowing the user to make guesses.
+Checking the guess against the randomly selected number.
+Choosing a random number between 1 and 100.
+Tracking the number of attempts and reducing it after each incorrect guess.
+Repeating the guessing process until the user wins or runs out of attempts.
+
