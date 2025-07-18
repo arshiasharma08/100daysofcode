@@ -136,3 +136,7 @@ Choosing a random number between 1 and 100.
 Tracking the number of attempts and reducing it after each incorrect guess.
 Repeating the guessing process until the user wins or runs out of attempts.
 
+DAY 14 - 
+Higher or Lower Project
+The goal is to build a game that asks the user to guess who has more followers on Instagram.
+
