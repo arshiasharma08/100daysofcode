@@ -138,5 +138,9 @@ Repeating the guessing process until the user wins or runs out of attempts.
 
 DAY 14 - 
 Higher or Lower Project
-The goal is to build a game that asks the user to guess who has more followers on Instagram.
+Inspired by the classic "Higher or Lower" game format, this project uses a dataset of celebrities, brands, and public figures along with their Instagram follower counts. The program randomly selects two different profiles and displays brief descriptions of each (such as name, profession, and country). The user then guesses who has more followers. If correct, they earn a point and continue to the next round; if wrong, the game ends and the final score is displayed.
+
+DAY 15 - 
+Coffee Machine Project
+In this project, you’ll build a coffee machine simulation that offers three types of drinks: espresso, latte, and cappuccino. Each drink requires a specific amount of water, milk, and coffee. The machine checks whether enough ingredients are available before preparing a drink and updates the inventory accordingly. It also handles coin input, calculates if the payment is sufficient, gives change, and keeps track of total earnings.
 
